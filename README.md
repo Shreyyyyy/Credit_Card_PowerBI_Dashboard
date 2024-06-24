@@ -6,7 +6,7 @@ This repository contains a Power BI project. The main purpose of this project is
 ## PDF Report
 A detailed PDF report is available for download:
 
-[Download the Report](path/to/your/report.pdf)
+[Download the Report](PDF.pdf)
 
 ## Getting Started
 To get started with this project, follow the instructions below.
